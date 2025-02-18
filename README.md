@@ -1,2 +1,2 @@
 # Website
-Just a website i made
+Just a website I made
